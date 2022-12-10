@@ -377,9 +377,10 @@ function travelling() {
   url[372]="https://lemonx.cn";
   url[373]="https://cry33.com";
   url[374]="https://rssblog.cn";
+  url[375]="https://www.yuanning0818.tk";
 
 
-  url[375] = "https://github.com/volfclub/travelling";
+  url[376] = "https://github.com/volfclub/travelling";
 
 
   if (document.referrer) {
